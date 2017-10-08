@@ -4,4 +4,7 @@ print 'hello'
 print '你好'
 root=Tkinter.Tk()
 
+
+
+
 root.mainloop()
